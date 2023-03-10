@@ -30,6 +30,10 @@ port.setGraphicsNumber(2);
 - [Github](https://www.github.com/danny270793/)
 - [LinkedIn](https://www.linkedin.com/in/danny270793)
 
+## LICENSE
+
+Licensed under the [MIT](license.md) License
+
 ## Version
 
 MatlabPortCom version 1.0.0
