@@ -32,6 +32,6 @@ port.setGraphicsNumber(2);
 
 ## Version
 
-ShiftRegister version 1.0.0
+MatlabPortCom version 1.0.0
 
-Last update 09/03/2023
+Last update 10/03/2023
