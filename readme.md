@@ -4,7 +4,7 @@ Librari to read and plot data from serial port using Matlab
 
 ## Ussage
 
-```m
+```matlab
 %% clear all
 clear all
 close all
@@ -26,11 +26,12 @@ port.setGraphicsNumber(2);
 
 ## Follow me
 
--   [Youtube](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
--   [Github](https://www.github.com/danny270793/)
--   [LinkedIn](https://www.linkedin.com/in/danny270793)
+- [Youtube](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
+- [Github](https://www.github.com/danny270793/)
+- [LinkedIn](https://www.linkedin.com/in/danny270793)
 
 ## Version
 
-ShiftRegister version 1.0.0<br>
+ShiftRegister version 1.0.0
+
 Last update 09/03/2023
