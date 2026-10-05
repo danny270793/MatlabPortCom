@@ -1,0 +1,26 @@
+# MATLAB autosave files
+*.asv
+*.m~
+
+# MATLAB autosave backup folders
+autosave/
+
+# Simulink/MATLAB generated files
+*.slxc
+*.mex*
+codegen/
+
+# Data generated while testing the serial port
+*.mat
+examples/*.mat
+
+# MATLAB crash dump files
+matlab_crash_dump.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+*.swp
